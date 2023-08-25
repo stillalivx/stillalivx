@@ -4,8 +4,8 @@
   I'm a mexican Computer Engineer student at ESIME Culhuacan (this is my last year of university). I've been coding since I was 12 thanks to an enourmus couriosity to understand the computer's power! ⚡ I enjoy learning new technologies, and use them to solve problems in the work and daily life environment. 👨🏾‍💻
 </p>
 
-- 🔭 I’m currently working on the creation of web applications using [nestjs](https://nestjs.com/) and [vuejs](https://vuejs.org/).
-- 🌱 I’m currently learning nestjs in depth. 
+- 🔭 I’m currently working on web applications using [nestjs](https://nestjs.com/) and [vuejs](https://vuejs.org/).
+- 🌱 I’m currently learning rust! 
 - 👯 I’m looking to collaborate on open source projects.
 
 ## 💻 Skills:
@@ -46,6 +46,4 @@ I'm interesting to learn:
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-## 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stillalivx.dev) 
+<!-- ## 🌐 Social: -->
